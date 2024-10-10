@@ -1,0 +1,7 @@
+git status
+git init
+clear
+git config
+git config --list
+$ git config user.name 'naim'
+$ git config user.email "mdnaimi277@gmail.com"
